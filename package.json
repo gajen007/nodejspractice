@@ -1,0 +1,30 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "just a try",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gajen007/nodejspractice.git"
+  },
+  "author": "Gajen Dissanayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gajen007/nodejspractice/issues"
+  },
+  "homepage": "https://github.com/gajen007/nodejspractice#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "depd": "^2.0.0",
+    "express": "^4.18.1",
+    "finalhandler": "^1.2.0",
+    "merge-descriptors": "^1.0.1",
+    "mongodb": "^4.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
+}
